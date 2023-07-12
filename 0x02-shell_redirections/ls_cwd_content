@@ -1,0 +1,15 @@
+total 52
+drwx------ 2 u0_a118 u0_a118 4096 Jul 12 22:48 .
+drwx------ 6 u0_a118 u0_a118 4096 Jul 12 22:07 ..
+-rwx------ 1 u0_a118 u0_a118   32 Jul 12 21:27 0-hello_world
+-rwx------ 1 u0_a118 u0_a118   28 Jul 12 22:08 1-confused_smiley
+-rwx------ 1 u0_a118 u0_a118   28 Jul 12 22:16 2-hellofile
+-rwx------ 1 u0_a118 u0_a118   39 Jul 12 22:20 3-twofiles
+-rwx------ 1 u0_a118 u0_a118   35 Jul 12 22:25 4-lastlines
+-rwx------ 1 u0_a118 u0_a118   35 Jul 12 22:29 5-firstlines
+-rwx------ 1 u0_a118 u0_a118   40 Jul 12 22:33 6-third_line
+-rwx------ 1 u0_a118 u0_a118   99 Jul 12 22:39 7-file
+-rwx------ 1 u0_a118 u0_a118   36 Jul 12 22:45 8-cwd_state
+-rw------- 1 u0_a118 u0_a118   19 Jul 12 20:42 README.md
+-rw------- 1 u0_a118 u0_a118   12 Jul 12 22:40 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw------- 1 u0_a118 u0_a118    0 Jul 12 22:48 ls_cwd_content
